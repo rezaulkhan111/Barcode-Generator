@@ -1,0 +1,5 @@
+E:\Office Working Folder C#\Document Management Main Source Code\GenCode128\GenCode128\GenCode128\bin\Debug\GenCode128.dll
+E:\Office Working Folder C#\Document Management Main Source Code\GenCode128\GenCode128\GenCode128\bin\Debug\GenCode128.pdb
+E:\Office Working Folder C#\Document Management Main Source Code\GenCode128\GenCode128\GenCode128\obj\Debug\GenCode128.csprojAssemblyReference.cache
+E:\Office Working Folder C#\Document Management Main Source Code\GenCode128\GenCode128\GenCode128\obj\Debug\GenCode128.dll
+E:\Office Working Folder C#\Document Management Main Source Code\GenCode128\GenCode128\GenCode128\obj\Debug\GenCode128.pdb

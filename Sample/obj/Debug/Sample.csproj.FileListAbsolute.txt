@@ -1,0 +1,11 @@
+E:\Office Working Folder C#\Document Management Main Source Code\GenCode128\GenCode128\Sample\bin\Debug\Sample.exe
+E:\Office Working Folder C#\Document Management Main Source Code\GenCode128\GenCode128\Sample\bin\Debug\Sample.pdb
+E:\Office Working Folder C#\Document Management Main Source Code\GenCode128\GenCode128\Sample\bin\Debug\GenCode128.dll
+E:\Office Working Folder C#\Document Management Main Source Code\GenCode128\GenCode128\Sample\bin\Debug\GenCode128.pdb
+E:\Office Working Folder C#\Document Management Main Source Code\GenCode128\GenCode128\Sample\obj\Debug\Sample.Form1.resources
+E:\Office Working Folder C#\Document Management Main Source Code\GenCode128\GenCode128\Sample\obj\Debug\Sample.csproj.GenerateResource.cache
+E:\Office Working Folder C#\Document Management Main Source Code\GenCode128\GenCode128\Sample\obj\Debug\Sample.csproj.CopyComplete
+E:\Office Working Folder C#\Document Management Main Source Code\GenCode128\GenCode128\Sample\obj\Debug\Sample.exe
+E:\Office Working Folder C#\Document Management Main Source Code\GenCode128\GenCode128\Sample\obj\Debug\Sample.pdb
+E:\Office Working Folder C#\Document Management Main Source Code\GenCode128\GenCode128\Sample\obj\Debug\Sample.csprojAssemblyReference.cache
+E:\Office Working Folder C#\Document Management Main Source Code\GenCode128\GenCode128\Sample\obj\Debug\Sample.Properties.Resources.resources
